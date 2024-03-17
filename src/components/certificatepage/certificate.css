@@ -1,0 +1,79 @@
+.certificate{
+    width: 58%;
+    margin: 1rem;
+    background-color: #1b94b2;
+    padding: 2rem;
+    box-sizing: border-box;
+    position: relative;
+    border-radius: 15px;
+}
+
+.certificate .icon{
+    color: black;
+    font-size: 2rem;
+    position: relative;
+    left: 48.3%;
+}
+
+.container{
+    position: relative;
+    box-sizing: border-box;
+}
+
+.container .dot{
+    position: relative;
+}
+
+
+.certi-main .certi-content{
+    width: 94%;
+    padding: 1rem;
+    position: relative;
+}
+
+
+.certi-main .certi-content strong{
+    font-size: 1.2rem;
+}
+
+
+.certi-main .certi-content p{
+    color: rgba(255, 255, 255, 0.74);
+}
+
+
+.certi-main .certi-content img{
+    width: 250px;
+    border: 10px solid black;
+    padding: 4px;
+
+}
+
+
+.certi-main .left{
+    left: 0%;
+    width: 50.3%;
+    border-right: 3px solid rgb(0, 67, 76);
+    padding-right: 2rem;
+    text-align: right;
+}
+
+
+.certi-main .left .dot{
+    left: 11%;
+}
+
+
+.certi-main .right .dot{
+    right: 11%;
+}
+
+
+.certi-main .right{
+    width: 50%;
+    left: 50%;
+    border-left: 3px solid rgb(0, 67, 76);
+    padding-left: 2rem;
+    text-align: left;
+}
+
