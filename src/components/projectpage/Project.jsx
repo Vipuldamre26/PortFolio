@@ -10,6 +10,23 @@ const Project = () => {
 
     const[ data, setData ] = useState(projectData);
 
+    const allItems = () => {
+        setData([...projectData]);
+    }
+
+    const websites = (e) => {
+        let newData = projectData.filter((item) => {
+            console.log(e.target.innerHTML);
+            if(e.target.innerHTML === item.type){
+                return true;
+            }
+            return false;
+        })
+
+        console.log(newData);
+        setData([newData]);
+    }
+
 
     return(
         <div className='project'>
@@ -21,8 +38,8 @@ const Project = () => {
 
             <nav>
                 <ul>
-                    <li>All</li>
-                    <li>Websites</li>
+                    <li onClick={allItems}>All</li>
+                    <li onClick={(e) => websites(e)}>Websites</li>
                     <li>Applications</li>
                     <li>Games</li>
                 </ul>

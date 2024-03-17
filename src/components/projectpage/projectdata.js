@@ -9,7 +9,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 2,
@@ -29,7 +29,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'app'
+        type: 'Applications'
     },
     {
         id: 1,
@@ -39,7 +39,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -49,7 +49,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'app'
+        type: 'Applications'
     },
     {
         id: 1,
@@ -59,7 +59,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -69,7 +69,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'app'
+        type: 'Applications'
     },
     {
         id: 1,
@@ -79,7 +79,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -89,7 +89,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'app'
+        type: 'Applications'
     },
     {
         id: 1,
@@ -99,7 +99,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -109,7 +109,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'app'
+        type: 'Applications'
     },
     {
         id: 1,
@@ -119,7 +119,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -129,7 +129,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -139,7 +139,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'game'
+        type: 'Games'
     },
     {
         id: 1,
@@ -149,7 +149,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'websites'
+        type: 'Websites'
     },
     {
         id: 1,
@@ -159,7 +159,7 @@ const projectData = [
         p3: 'Figma | React.js | Chakra UI',
         a1: '#',
         a2: '#',
-        type: 'game'
+        type: 'Games'
     }
 ]
 

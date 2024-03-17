@@ -9,6 +9,31 @@
 }
 
 
+.project nav{
+    width: 44%;
+    
+}
+
+
+.project nav ul{
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 0;
+
+}
+
+
+.project nav ul li{
+    list-style: none;
+    text-decoration: none;
+    margin: 0.6rem 1rem;
+    cursor: pointer;
+}
+
+
 .project .cards{
     display: flex;
     align-items: center;
